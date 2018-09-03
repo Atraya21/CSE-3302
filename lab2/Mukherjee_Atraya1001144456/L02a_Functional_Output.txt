@@ -1,0 +1,35 @@
+County Name	No.Cities	Total Pop	Ave Pop	Largest City	Population
+	Bell	2		213083		106541		Killeen		140806
+	Bexar	1		1469845		1469845		San Antonio	1469845
+	Brazoria	1		108821		108821		Pearland	108821
+	Brazos	2		190007		95003		College Station	107889
+	Cameron	2		249661		124830		Brownsville	183887
+	Collin	3		415448		138482		McKinney	162898
+	Comal	1		70543		70543		New Braunfels	70543
+	Dallas	8		2329730		291216		Dallas	1300092
+	Denton	5		723062		144612		Plano	283558
+	Ector	1		118968		118968		Odessa	118968
+	El Paso	1		681124		681124		El Paso	681124
+	Fort Bend	2		162295		81147		Sugar Land	88156
+	Galveston	2		148492		74246		League City	98312
+	Gregg	1		82287		82287		Longview	82287
+	Harris	4		2492701		623175		Houston	2296224
+	Hays	1		60684		60684		San Marcos	60684
+	Hidalgo	4		384602		96150		McAllen	140269
+	Jefferson	2		173469		86734		Beaumont	118129
+	Lubbock	1		249042		249042		Lubbock	249042
+	McLennan	1		132356		132356		Waco	132356
+	Midland	1		132950		132950		Midland	132950
+	Montgomery	2		181107		90553		The Woodlands	112505
+	Nueces	1		324074		324074		Corpus Christi	324074
+	Pasadena	1		153784		153784		Pasadena	153784
+	Potter	1		198645		198645		Amarillo	198645
+	Smith	1		103700		103700		Tyler	103700
+	Tarrant	6		1460545		243424		Fort Worth	833319
+	Taylor	1		121721		121721		Abilene	121721
+	Tom Green	1		100450		100450		San Angelo	100450
+	Travis	2		988942		494471		Austin	931820
+	Victoria	1		67574		67574		Victoria	67574
+	Webb	1		255473		255473		Laredo	255473
+	Wichita	1		104710		104710		Wichita Falls	104710
+	Williamson	3		245658		81886		Round Rock	115997
